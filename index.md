@@ -1,6 +1,6 @@
-# Disclaimer
+## Disclaimer
 
-The following work was done using virutal machines and a fake social media website. The exploits shown here should never be used against a website you do not have permission to modify or test (besides, nowadays, this is pretty much patched everywhere).
+The following work was done using virtual machines and a fake social media website. The exploits shown here should never be used against a website you do not have permission to modify or test (besides, nowadays, this is pretty much patched everywhere).
 
 # Introduction
 
